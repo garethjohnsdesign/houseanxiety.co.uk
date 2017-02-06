@@ -1,0 +1,5 @@
+---
+title: Artists
+layout: artists
+---
+
