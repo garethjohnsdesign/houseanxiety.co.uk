@@ -2,20 +2,20 @@
 title: House Anxiety
 timezone: UTC
 collections:
+  artists:
+    title: Artists
+    output: false
   posts:
     title: Posts
     output: true
   releases:
     title: Releases
     output: false
-  artists:
-    title: Artists
+  uploads:
+    title: Uploads
     output: false
   videos:
     title: Videos
-    output: false
-  uploads:
-    title: Uploads
     output: false
 defaults:
 - scope:
@@ -24,7 +24,8 @@ defaults:
   values:
     layout: page
 url: http://houseanxiety.co.uk
-description: A London-based independent record label, and a proud member of the Marathon Artists family.
+description: A London-based independent record label, and a proud member of the Marathon
+  Artists family.
 permalink: pretty
 exclude:
 - Gruntfile.js
@@ -49,8 +50,8 @@ kramdown:
 highlighter: rouge
 company: House Anxiety
 email: info@houseanxietyrecords.co.uk
-google_site_verification:
-analytics:
+google_site_verification: 
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%Y"

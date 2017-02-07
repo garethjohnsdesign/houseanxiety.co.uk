@@ -1,9 +1,9 @@
 ---
 title: Jamie Isaac
 description: 
-is-featured:
+is-featured: 
 image: "/uploads/jamie-isaac.jpg"
-feature-image:
+feature-image: 
 website: https://www.google.com/
 facebook: https://www.facebook.com/
 twitter: https://twitter.com/
@@ -12,3 +12,4 @@ spotify: https://open.spotify.com/
 soundcloud: https://soundcloud.com/
 apple: https://itunes.apple.com/us/
 ---
+
