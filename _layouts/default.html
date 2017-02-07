@@ -6,25 +6,12 @@
 <!-- End Head -->
 
 <body>
-
-<div class="animsition content">
-<!-- Navigation -->  
-{% include navigation.html %}
-<!-- End Navigation -->
-
-<!-- Menu -->  
-{% include overlay-menu.html %}
-<!-- End Menu --> 
-
-<!-- Content -->
-{{ content }}
-<!-- End Content -->
-</div>
-
-<!-- Footer -->  
-{% include footer.html %}
-<!-- End Footer -->
-
+  <div class="off-canvas position-left reveal-for-medium" id="offCanvas" data-off-canvas>
+  {% include navigation.html %}
+  </div>
+  <div class="off-canvas-content" data-off-canvas-content>
+  {{ content }}
+  </div>
 </body>
 
 <!-- Scripts -->

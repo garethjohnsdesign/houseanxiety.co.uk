@@ -27,10 +27,82 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/_artists\/childhood.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/childhood.markdown",
+		"oF": 0
+		},
+	"\/_artists\/courtney-barnett.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/courtney-barnett.markdown",
+		"oF": 0
+		},
 	"\/_artists\/forth-wanderers.markdown": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_artists\/forth-wanderers.markdown",
+		"oF": 0
+		},
+	"\/_artists\/fraser-a-gorman.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/fraser-a-gorman.markdown",
+		"oF": 0
+		},
+	"\/_artists\/graffiti-island.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/graffiti-island.markdown",
+		"oF": 0
+		},
+	"\/_artists\/hazel-english.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/hazel-english.markdown",
+		"oF": 0
+		},
+	"\/_artists\/jamie-isaac.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/jamie-isaac.markdown",
+		"oF": 0
+		},
+	"\/_artists\/kreayshawn.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/kreayshawn.markdown",
+		"oF": 0
+		},
+	"\/_artists\/miracle.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/miracle.markdown",
+		"oF": 0
+		},
+	"\/_artists\/shock-machine.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/shock-machine.markdown",
+		"oF": 0
+		},
+	"\/_artists\/the-big-pink.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/the-big-pink.markdown",
+		"oF": 0
+		},
+	"\/_artists\/two-fifty-four.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/two-fifty-four.markdown",
+		"oF": 0
+		},
+	"\/_artists\/zoo-kid.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_artists\/zoo-kid.markdown",
 		"oF": 0
 		},
 	"\/_config.yml": {
@@ -111,12 +183,6 @@
 		"oAP": "\/_includes\/socials.html",
 		"oF": 0
 		},
-	"\/_layouts\/about.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/about.html",
-		"oF": 0
-		},
 	"\/_layouts\/artists.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -133,6 +199,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/index.html",
+		"oF": 0
+		},
+	"\/_layouts\/info.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/info.html",
 		"oF": 0
 		},
 	"\/_layouts\/missing.html": {
@@ -153,10 +225,190 @@
 		"oAP": "\/_layouts\/releases.html",
 		"oF": 0
 		},
+	"\/_layouts\/testing.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/testing.html",
+		"oF": 0
+		},
 	"\/_layouts\/videos.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/videos.html",
+		"oF": 0
+		},
+	"\/_releases\/a-sea-of-split-peas.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/a-sea-of-split-peas.markdown",
+		"oF": 0
+		},
+	"\/_releases\/blue-break.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/blue-break.markdown",
+		"oF": 0
+		},
+	"\/_releases\/blue-velvet.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/blue-velvet.markdown",
+		"oF": 0
+		},
+	"\/_releases\/book-of-love.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/book-of-love.markdown",
+		"oF": 0
+		},
+	"\/_releases\/broken-hands.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/broken-hands.markdown",
+		"oF": 0
+		},
+	"\/_releases\/bumpin-bumpin.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/bumpin-bumpin.markdown",
+		"oF": 0
+		},
+	"\/_releases\/central-valley-sadness.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/central-valley-sadness.markdown",
+		"oF": 0
+		},
+	"\/_releases\/couch-baby.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/couch-baby.markdown",
+		"oF": 0
+		},
+	"\/_releases\/fluid-window.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/fluid-window.markdown",
+		"oF": 0
+		},
+	"\/_releases\/good-love.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/good-love.markdown",
+		"oF": 0
+		},
+	"\/_releases\/headhunters.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/headhunters.markdown",
+		"oF": 0
+		},
+	"\/_releases\/i-will-be-cold-soon.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/i-will-be-cold-soon.markdown",
+		"oF": 0
+		},
+	"\/_releases\/island-barbados.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/island-barbados.markdown",
+		"oF": 0
+		},
+	"\/_releases\/ive-got-a-friend-called-emily-ferris.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/ive-got-a-friend-called-emily-ferris.markdown",
+		"oF": 0
+		},
+	"\/_releases\/kims-caravan.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/kims-caravan.markdown",
+		"oF": 0
+		},
+	"\/_releases\/lacuna.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/lacuna.markdown",
+		"oF": 0
+		},
+	"\/_releases\/never-going-home.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/never-going-home.markdown",
+		"oF": 0
+		},
+	"\/_releases\/nobody-really-cares-if-you-dont-go-to-the-party.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/nobody-really-cares-if-you-dont-go-to-the-party.markdown",
+		"oF": 0
+		},
+	"\/_releases\/on-a-wire.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/on-a-wire.markdown",
+		"oF": 0
+		},
+	"\/_releases\/open-up-the-sky.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/open-up-the-sky.markdown",
+		"oF": 0
+		},
+	"\/_releases\/out-getting-ribs.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/out-getting-ribs.markdown",
+		"oF": 0
+		},
+	"\/_releases\/pedestrian-at-best.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/pedestrian-at-best.markdown",
+		"oF": 0
+		},
+	"\/_releases\/shiny-gun.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/shiny-gun.markdown",
+		"oF": 0
+		},
+	"\/_releases\/slop.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/slop.markdown",
+		"oF": 0
+		},
+	"\/_releases\/slow-gum.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/slow-gum.markdown",
+		"oF": 0
+		},
+	"\/_releases\/solemn-skies.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/solemn-skies.markdown",
+		"oF": 0
+		},
+	"\/_releases\/sometimes-i-sit-and-think-and-sometimes-i-just-sit.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/sometimes-i-sit-and-think-and-sometimes-i-just-sit.markdown",
+		"oF": 0
+		},
+	"\/_releases\/the-visitors.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/the-visitors.markdown",
+		"oF": 0
+		},
+	"\/_releases\/too-young-to-love-crystal-visions.markdown": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_releases\/too-young-to-love-crystal-visions.markdown",
 		"oF": 0
 		},
 	"\/_site": {
@@ -165,27 +417,91 @@
 		"oAP": "\/build\/_site",
 		"oF": 0
 		},
-	"\/_uploads\/childhood-feature.jpg": {
+	"\/_uploads\/a-sea-of-split-peas.jpg": {
 		"ft": 16384,
-		"iS": 247542,
+		"iS": 122479,
 		"oA": 0,
-		"oAP": "\/_uploads\/childhood-feature.jpg",
+		"oAP": "\/_uploads\/a-sea-of-split-peas.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/courtney-barnett-feature.jpg": {
+	"\/_uploads\/blue-break.jpg": {
 		"ft": 16384,
-		"iS": 226746,
+		"iS": 65217,
 		"oA": 0,
-		"oAP": "\/_uploads\/courtney-barnett-feature.jpg",
+		"oAP": "\/_uploads\/blue-break.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/forth-wanderers-slop.jpg": {
+	"\/_uploads\/blue-velvet.jpg": {
 		"ft": 16384,
-		"iS": 174774,
+		"iS": 119196,
 		"oA": 0,
-		"oAP": "\/_uploads\/forth-wanderers-slop.jpg",
+		"oAP": "\/_uploads\/blue-velvet.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/book-of-love.jpg": {
+		"ft": 16384,
+		"iS": 86995,
+		"oA": 0,
+		"oAP": "\/_uploads\/book-of-love.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/broken-hands.jpg": {
+		"ft": 16384,
+		"iS": 206658,
+		"oA": 0,
+		"oAP": "\/_uploads\/broken-hands.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/bumpin-bumpin.jpg": {
+		"ft": 16384,
+		"iS": 114850,
+		"oA": 0,
+		"oAP": "\/_uploads\/bumpin-bumpin.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/central-valley-sadness.jpg": {
+		"ft": 16384,
+		"iS": 28827,
+		"oA": 0,
+		"oAP": "\/_uploads\/central-valley-sadness.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/childhood.jpg": {
+		"ft": 16384,
+		"iS": 140750,
+		"oA": 0,
+		"oAP": "\/_uploads\/childhood.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/couch-baby.jpg": {
+		"ft": 16384,
+		"iS": 190314,
+		"oA": 0,
+		"oAP": "\/_uploads\/couch-baby.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/courtney-barnett.jpg": {
+		"ft": 16384,
+		"iS": 140542,
+		"oA": 0,
+		"oAP": "\/_uploads\/courtney-barnett.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/fluid-window.jpg": {
+		"ft": 16384,
+		"iS": 68304,
+		"oA": 0,
+		"oAP": "\/_uploads\/fluid-window.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -197,383 +513,253 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/fraser-a-gorman-feature.jpg": {
-		"ft": 16384,
-		"iS": 124156,
-		"oA": 0,
-		"oAP": "\/_uploads\/fraser-a-gorman-feature.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/hazel-english-never-going-home.jpg": {
-		"ft": 16384,
-		"iS": 134271,
-		"oA": 0,
-		"oAP": "\/_uploads\/hazel-english-never-going-home.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-001.jpg": {
-		"ft": 16384,
-		"iS": 120938,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-001.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-002.jpg": {
-		"ft": 16384,
-		"iS": 215419,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-002.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-003.jpg": {
-		"ft": 16384,
-		"iS": 77336,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-003.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-004.jpg": {
-		"ft": 16384,
-		"iS": 90237,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-004.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-005.jpg": {
-		"ft": 16384,
-		"iS": 68304,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-005.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-006.jpg": {
-		"ft": 16384,
-		"iS": 42896,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-006.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-007.jpg": {
-		"ft": 16384,
-		"iS": 114850,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-007.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-008.jpg": {
-		"ft": 16384,
-		"iS": 44618,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-008.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-009.jpg": {
-		"ft": 16384,
-		"iS": 28827,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-009.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-010.jpg": {
-		"ft": 16384,
-		"iS": 102019,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-010.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-011.jpg": {
-		"ft": 16384,
-		"iS": 119196,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-011.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-012.jpg": {
-		"ft": 16384,
-		"iS": 105895,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-012.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-013.jpg": {
-		"ft": 16384,
-		"iS": 86945,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-013.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-015.jpg": {
-		"ft": 16384,
-		"iS": 122479,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-015.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-017.jpg": {
-		"ft": 16384,
-		"iS": 65217,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-017.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-019.jpg": {
-		"ft": 16384,
-		"iS": 82859,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-019.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-020.jpg": {
-		"ft": 16384,
-		"iS": 87290,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-020.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-035.jpg": {
-		"ft": 16384,
-		"iS": 86995,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-035.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-036.jpg": {
-		"ft": 16384,
-		"iS": 96603,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-036.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-037.jpg": {
-		"ft": 16384,
-		"iS": 73294,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-037.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-038.jpg": {
-		"ft": 16384,
-		"iS": 191589,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-038.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-broken-hands.jpg": {
-		"ft": 16384,
-		"iS": 206658,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-broken-hands.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-childhood.jpg": {
-		"ft": 16384,
-		"iS": 140750,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-childhood.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-courtney-barnett.jpg": {
-		"ft": 16384,
-		"iS": 140542,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-courtney-barnett.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-fraser-a-gorman.jpg": {
+	"\/_uploads\/fraser-a-gorman.jpg": {
 		"ft": 16384,
 		"iS": 142424,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-fraser-a-gorman.jpg",
+		"oAP": "\/_uploads\/fraser-a-gorman.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-ghost-hunter.jpg": {
+	"\/_uploads\/ghost-hunter.jpg": {
 		"ft": 16384,
 		"iS": 214619,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-ghost-hunter.jpg",
+		"oAP": "\/_uploads\/ghost-hunter.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-graffiti-island.jpg": {
+	"\/_uploads\/good-love.jpg": {
+		"ft": 16384,
+		"iS": 102019,
+		"oA": 0,
+		"oAP": "\/_uploads\/good-love.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/graffiti-island.jpg": {
 		"ft": 16384,
 		"iS": 184054,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-graffiti-island.jpg",
+		"oAP": "\/_uploads\/graffiti-island.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-hazel-english.jpg": {
+	"\/_uploads\/hazel-english.jpg": {
 		"ft": 16384,
 		"iS": 85237,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-hazel-english.jpg",
+		"oAP": "\/_uploads\/hazel-english.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-jamie-isaac.jpg": {
+	"\/_uploads\/headhunters.jpg": {
+		"ft": 16384,
+		"iS": 215419,
+		"oA": 0,
+		"oAP": "\/_uploads\/headhunters.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/i-will-be-cold-soon.jpg": {
+		"ft": 16384,
+		"iS": 86945,
+		"oA": 0,
+		"oAP": "\/_uploads\/i-will-be-cold-soon.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/island-barbados.jpg": {
+		"ft": 16384,
+		"iS": 77336,
+		"oA": 0,
+		"oAP": "\/_uploads\/island-barbados.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/ive-got-a-friend-called-emily-ferris.jpg": {
+		"ft": 16384,
+		"iS": 87290,
+		"oA": 0,
+		"oAP": "\/_uploads\/ive-got-a-friend-called-emily-ferris.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/jamie-isaac.jpg": {
 		"ft": 16384,
 		"iS": 109009,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-jamie-isaac.jpg",
+		"oAP": "\/_uploads\/jamie-isaac.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-kreayshawn.jpg": {
+	"\/_uploads\/kims-caravan.jpg": {
+		"ft": 16384,
+		"iS": 191589,
+		"oA": 0,
+		"oAP": "\/_uploads\/kims-caravan.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/kreayshawn.jpg": {
 		"ft": 16384,
 		"iS": 84020,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-kreayshawn.jpg",
+		"oAP": "\/_uploads\/kreayshawn.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-miracle.jpg": {
+	"\/_uploads\/lacuna.jpg": {
+		"ft": 16384,
+		"iS": 82859,
+		"oA": 0,
+		"oAP": "\/_uploads\/lacuna.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/miracle.jpg": {
 		"ft": 16384,
 		"iS": 93016,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-miracle.jpg",
+		"oAP": "\/_uploads\/miracle.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-nobody-really-cares.jpg": {
+	"\/_uploads\/never-going-home.jpg": {
+		"ft": 16384,
+		"iS": 134271,
+		"oA": 0,
+		"oAP": "\/_uploads\/never-going-home.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/nobody-really-cares-if-you-dont-go-to-the-party.jpg": {
 		"ft": 16384,
 		"iS": 72625,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-nobody-really-cares.jpg",
+		"oAP": "\/_uploads\/nobody-really-cares-if-you-dont-go-to-the-party.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-shiny-gun.jpg": {
+	"\/_uploads\/on-a-wire.jpg": {
 		"ft": 16384,
-		"iS": 96429,
+		"iS": 42896,
 		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-shiny-gun.jpg",
+		"oAP": "\/_uploads\/on-a-wire.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/house-anxiety-shock-machine.jpg": {
-		"ft": 16384,
-		"iS": 83442,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-shock-machine.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-slow-gum.jpg": {
-		"ft": 16384,
-		"iS": 108540,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-slow-gum.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-the-big-pink.jpg": {
-		"ft": 16384,
-		"iS": 87056,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-the-big-pink.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-two-fifty-four.jpg": {
-		"ft": 16384,
-		"iS": 187493,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-two-fifty-four.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/house-anxiety-zoo-kid.jpg": {
-		"ft": 16384,
-		"iS": 159214,
-		"oA": 0,
-		"oAP": "\/_uploads\/house-anxiety-zoo-kid.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/jamie-isaac-couch-baby.jpg": {
-		"ft": 16384,
-		"iS": 190314,
-		"oA": 0,
-		"oAP": "\/_uploads\/jamie-isaac-couch-baby.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/jamie-isaac-feature.jpg": {
-		"ft": 16384,
-		"iS": 207663,
-		"oA": 0,
-		"oAP": "\/_uploads\/jamie-isaac-feature.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/_uploads\/shock-machine-open-up-the-sky.jpg": {
+	"\/_uploads\/open-up-the-sky.jpg": {
 		"ft": 16384,
 		"iS": 179002,
 		"oA": 0,
-		"oAP": "\/_uploads\/shock-machine-open-up-the-sky.jpg",
+		"oAP": "\/_uploads\/open-up-the-sky.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/two-fifty-four-feature.jpg": {
+	"\/_uploads\/out-getting-ribs.jpg": {
 		"ft": 16384,
-		"iS": 154249,
+		"iS": 90237,
 		"oA": 0,
-		"oAP": "\/_uploads\/two-fifty-four-feature.jpg",
+		"oAP": "\/_uploads\/out-getting-ribs.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/_uploads\/zoo-kid-feature.jpg": {
+	"\/_uploads\/pedestrian-at-best.jpg": {
 		"ft": 16384,
-		"iS": 177107,
+		"iS": 73294,
 		"oA": 0,
-		"oAP": "\/_uploads\/zoo-kid-feature.jpg",
+		"oAP": "\/_uploads\/pedestrian-at-best.jpg",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/about.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/about.md",
-		"oF": 1,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
+	"\/_uploads\/shiny-gun.jpg": {
+		"ft": 16384,
+		"iS": 96429,
+		"oA": 0,
+		"oAP": "\/_uploads\/shiny-gun.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/shock-machine.jpg": {
+		"ft": 16384,
+		"iS": 83442,
+		"oA": 0,
+		"oAP": "\/_uploads\/shock-machine.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/slop.jpg": {
+		"ft": 16384,
+		"iS": 174774,
+		"oA": 0,
+		"oAP": "\/_uploads\/slop.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/slow-gum.jpg": {
+		"ft": 16384,
+		"iS": 108540,
+		"oA": 0,
+		"oAP": "\/_uploads\/slow-gum.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/solemn-skies.jpg": {
+		"ft": 16384,
+		"iS": 105895,
+		"oA": 0,
+		"oAP": "\/_uploads\/solemn-skies.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/sometimes-i-sit-and-think-and-sometimes-i-just-sit.jpg": {
+		"ft": 16384,
+		"iS": 96603,
+		"oA": 0,
+		"oAP": "\/_uploads\/sometimes-i-sit-and-think-and-sometimes-i-just-sit.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/the-big-pink.jpg": {
+		"ft": 16384,
+		"iS": 87056,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-big-pink.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/the-visitors.jpg": {
+		"ft": 16384,
+		"iS": 44618,
+		"oA": 0,
+		"oAP": "\/_uploads\/the-visitors.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/too-young-to-love-crystal-visions.jpg": {
+		"ft": 16384,
+		"iS": 120938,
+		"oA": 0,
+		"oAP": "\/_uploads\/too-young-to-love-crystal-visions.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/two-fifty-four.jpg": {
+		"ft": 16384,
+		"iS": 187493,
+		"oA": 0,
+		"oAP": "\/_uploads\/two-fifty-four.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/zoo-kid.jpg": {
+		"ft": 16384,
+		"iS": 159214,
+		"oA": 0,
+		"oAP": "\/_uploads\/zoo-kid.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/artists.md": {
 		"cS": 0,
@@ -5784,6 +5970,24 @@
 		"ft": 4096,
 		"oA": 2,
 		"oAP": "\/index.md",
+		"oF": 1,
+		"oFM": 9,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/info.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/info.md",
 		"oF": 1,
 		"oFM": 9,
 		"oS": 0,

@@ -2,10 +2,34 @@
 layout: default
 ---
 
-<!-- Content -->
-<div class="row page__content">
-  <div class="small-10 medium-10 columns">
-    {{ page.content | markdownify }}
+<!-- Releases -->
+<section class="artists">
+  <div class="row collapse expanded small-up-1 medium-up-3 large-up-4"> 
+    {% assign releases = site.releases | sort: 'position' %}
+    {% for release in releases %}
+      <div class="columns">
+        
+        
+        <!-- Release -->
+        <div class="release">    
+        <div class="release__excerpt">      
+            <div class="release__image">
+              <img src="{{ release.image }}" alt="{{ release.title }}">
+            </div>
+            
+            <div class="release__format">
+              {{ release.format }}
+            </div>
+        </div>
+        <!-- End Release -->
+        
+        <div class="release__text">
+        {{ release.title }}  
+        </div>
+        </div>
+
+      </div>
+    {% endfor %}
   </div>
-</div>
-<!-- End Content -->
+</section>
+<!-- End Releases -->
