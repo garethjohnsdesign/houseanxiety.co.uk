@@ -1,6 +1,6 @@
 ---
 title: Releases
-position: 3
+position: 1
 layout: releases
 ---
 
