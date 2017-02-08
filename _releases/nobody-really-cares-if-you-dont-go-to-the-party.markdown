@@ -1,6 +1,6 @@
 ---
 title: Nobody Really Cares If You Don't Go to the Party
-position: 14
+position: 15
 artist: Courtney Barnett
 image: "/uploads/nobody-really-cares-if-you-dont-go-to-the-party.jpg"
 catalogue-number: 

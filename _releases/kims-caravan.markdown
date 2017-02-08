@@ -1,6 +1,6 @@
 ---
 title: Kim's Caravan
-position: 13
+position: 14
 artist: Courtney Barnett
 image: "/uploads/kims-caravan.jpg"
 catalogue-number: HA038

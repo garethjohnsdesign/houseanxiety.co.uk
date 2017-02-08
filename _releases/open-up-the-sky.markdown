@@ -1,6 +1,6 @@
 ---
 title: Open Up The Sky
-position: 15
+position: 3
 artist: Shock Machine
 image: "/uploads/open-up-the-sky.jpg"
 catalogue-number: MA0065
