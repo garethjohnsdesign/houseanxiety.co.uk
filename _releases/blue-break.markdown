@@ -1,6 +1,6 @@
 ---
 title: Blue Break
-position: 9
+position: 10
 artist: Jamie Isaac
 image: "/uploads/blue-break.jpg"
 catalogue-number: HA019

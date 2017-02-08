@@ -1,6 +1,6 @@
 ---
 title: Pedestrian at Best
-position: 13
+position: 14
 artist: Courtney Barnett
 image: "/uploads/pedestrian-at-best.jpg"
 catalogue-number: HA037

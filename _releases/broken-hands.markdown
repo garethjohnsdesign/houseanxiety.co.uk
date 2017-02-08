@@ -1,6 +1,6 @@
 ---
 title: Broken Hands
-position: 19
+position: 7
 artist: Fraser A Gorman
 image: "/uploads/broken-hands.jpg"
 catalogue-number: 
