@@ -1,6 +1,6 @@
 ---
 title: I Will Be Cold Soon
-position: 22
+position: 16
 artist: Jamie Isaac
 image: "/uploads/i-will-be-cold-soon.jpg"
 catalogue-number: HA013

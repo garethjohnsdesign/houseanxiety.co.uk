@@ -1,6 +1,6 @@
 ---
 title: Blue Velvet
-position: 16
+position: 17
 artist: Childhood
 image: "/uploads/blue-velvet.jpg"
 catalogue-number: HA011

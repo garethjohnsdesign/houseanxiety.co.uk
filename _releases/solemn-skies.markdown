@@ -1,6 +1,6 @@
 ---
 title: Solemn Skies
-position: 17
+position: 18
 artist: Childhood
 image: "/uploads/solemn-skies.jpg"
 catalogue-number: HA012
