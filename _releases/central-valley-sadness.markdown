@@ -1,6 +1,6 @@
 ---
 title: Central Valley Sadness
-position: 27
+position: 20
 artist: Adeptus
 image: "/uploads/central-valley-sadness.jpg"
 catalogue-number: HA009

@@ -1,6 +1,6 @@
 ---
 title: The Visitors
-position: 24
+position: 25
 artist: Miracle
 image: "/uploads/the-visitors.jpg"
 catalogue-number: HA008
