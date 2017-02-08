@@ -1,6 +1,6 @@
 ---
 title: Childhood
-position: 8
+position: 4
 description: 
 is-featured: 
 image: "/uploads/childhood.jpg"

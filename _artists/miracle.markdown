@@ -1,6 +1,6 @@
 ---
 title: Miracle
-position: 11
+position: 12
 description: 
 is-featured: 
 image: "/uploads/miracle.jpg"

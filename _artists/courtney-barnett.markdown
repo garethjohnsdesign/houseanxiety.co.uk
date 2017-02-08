@@ -1,6 +1,6 @@
 ---
 title: Courtney Barnett
-position: 12
+position: 5
 description: 
 is-featured: 
 image: "/uploads/courtney-barnett.jpg"
