@@ -4,7 +4,7 @@ layout: default
 
 <!-- Videos -->
 <section class="videos">
-  {% assign videos = site.videos | sort: 'position' %}
+  {% assign videos = site.videos | sort: 'date' | reverse %}
   {% for video in videos %}
   <div class="row expanded align-center"> 
     <div class="small-11 medium-10 columns">  
