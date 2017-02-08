@@ -1,6 +1,6 @@
 ---
 title: Too Young To Love / Crystal Visions
-position: 23
+position: 24
 artist: The Big Pink
 image: "/uploads/too-young-to-love-crystal-visions.jpg"
 catalogue-number: HA001

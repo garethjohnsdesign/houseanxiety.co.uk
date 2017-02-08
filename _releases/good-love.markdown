@@ -1,6 +1,6 @@
 ---
 title: Good Love
-position: 25
+position: 26
 artist: Miracle
 image: "/uploads/good-love.jpg"
 catalogue-number: HA010

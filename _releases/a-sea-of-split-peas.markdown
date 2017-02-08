@@ -1,6 +1,6 @@
 ---
 title: A Sea of Split Peas
-position: 28
+position: 15
 artist: Courtney Barnett
 image: "/uploads/a-sea-of-split-peas.jpg"
 catalogue-number: HA015
