@@ -1,5 +1,6 @@
 ---
 title: Shock Machine
+position: 2
 description: 
 is-featured: true
 image: "/uploads/shock-machine.jpg"

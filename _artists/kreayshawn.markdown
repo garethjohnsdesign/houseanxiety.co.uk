@@ -1,5 +1,6 @@
 ---
 title: Kreayshawn
+position: 10
 description: 
 is-featured: 
 image: "/uploads/kreayshawn.jpg"

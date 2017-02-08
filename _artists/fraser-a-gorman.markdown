@@ -1,5 +1,6 @@
 ---
 title: Fraser A Gorman
+position: 6
 description: 
 is-featured: 
 image: "/uploads/fraser-a-gorman.jpg"
