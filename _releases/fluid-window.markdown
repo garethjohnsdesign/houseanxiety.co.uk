@@ -1,6 +1,6 @@
 ---
 title: Fluid Window
-position: 25
+position: 26
 artist: Miracle
 image: "/uploads/fluid-window.jpg"
 catalogue-number: HA005
