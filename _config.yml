@@ -14,6 +14,9 @@ collections:
   uploads:
     title: Uploads
     output: false
+  videos:
+    title: Videos
+    output: true
 defaults:
 - scope:
     path: ''
