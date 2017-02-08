@@ -1,6 +1,6 @@
 ---
 title: Slop
-date: 2017-02-08 11:39:00 Z
+date: 2016-09-20 11:39:00 Z
 artist: Forth Wanderers
 youtube: tzAAwo5tHOU
 ---
