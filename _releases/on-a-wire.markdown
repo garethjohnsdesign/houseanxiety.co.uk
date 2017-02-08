@@ -1,6 +1,6 @@
 ---
 title: On a Wire
-position: 28
+position: 23
 artist: 174.0
 image: "/uploads/on-a-wire.jpg"
 catalogue-number: HA006

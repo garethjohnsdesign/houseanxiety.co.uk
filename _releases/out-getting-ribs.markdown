@@ -1,6 +1,6 @@
 ---
 title: Out Getting Ribs
-position: 23
+position: 25
 artist: Zoo Kid
 image: "/uploads/out-getting-ribs.jpg"
 catalogue-number: HA004

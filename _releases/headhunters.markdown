@@ -1,6 +1,6 @@
 ---
 title: Headhunters
-position: 25
+position: 27
 artist: Graffiti Island
 image: "/uploads/headhunters.jpg"
 catalogue-number: HA002
