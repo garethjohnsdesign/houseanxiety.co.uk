@@ -5,12 +5,12 @@ description:
 is-featured: 
 image: "/uploads/fraser-a-gorman.jpg"
 feature-image: 
-website: https://www.google.com/
-facebook: https://www.facebook.com/
-twitter: https://twitter.com/
-instagram: https://www.instagram.com/
-spotify: https://open.spotify.com/
-soundcloud: https://soundcloud.com/
-apple: https://itunes.apple.com/us/
+website: https://fraseragorman.bandcamp.com
+facebook: https://www.facebook.com/fraseralexandergorman
+twitter:
+instagram:
+spotify:
+soundcloud:
+apple:
 ---
 

@@ -18,5 +18,8 @@ Example showing how to change the color/size of the icons:
 ======================================================================================== */
 
 .icon-logo {
-	font-size: 6rem; // works because "width" & "height" were set using em units
+	font-size: 8rem; // works because "width" & "height" were set using em units
+  @include breakpoint(small only) {
+  font-size: 6rem;
+  }	
 }

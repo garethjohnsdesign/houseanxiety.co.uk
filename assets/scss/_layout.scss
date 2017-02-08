@@ -22,10 +22,6 @@ html, body {
 outline: 0;
 }
 
-button {
-  font-family: $body-font-family;
-}
-
 body {
   cursor: default;
 }
@@ -45,6 +41,9 @@ img {
   color: $color--white;
 }
 
+.index .columns {
+  transition: $primary-transition;
+}
 
 a { 
   transition: $primary-transition;
@@ -69,10 +68,32 @@ i, cite, em, var, address, dfn {
 // 4. Navigation
 // -------------
 
+.info {
+  padding: 1rem;
+}
 
 
-// 6. Excerpt
+// 4. Navigation
+// -------------
+
+.videos {
+  padding: 1rem;
+}
+
+.video {
+  padding-bottom: 1rem;
+}
+
+.video__text {
+  padding-bottom: 1rem;
+}
+
+// 6. Artists
 // ----------
+
+.artists {
+  padding: 1rem;
+}
 
 .artist {
   padding: 1rem;
@@ -149,8 +170,12 @@ opacity: 1;
 
 
 
-// REleases
+// Releases
 
+
+.releases {
+  padding: 1rem;
+}
 
 .release {
   padding: 1rem;
@@ -219,4 +244,12 @@ opacity: 1;
   left:0;
   background:$color--black;
   opacity:0.25;
+}
+
+
+.carousel {
+  height: 100vh;
+  @include breakpoint(small only) {
+    height: calc(100vh - 200px);
+  	}
 }

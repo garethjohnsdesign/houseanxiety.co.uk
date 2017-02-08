@@ -147,6 +147,12 @@
 		"oAP": "\/_includes\/icons.html",
 		"oF": 0
 		},
+	"\/_includes\/navigation-mobile.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_includes\/navigation-mobile.html",
+		"oF": 0
+		},
 	"\/_includes\/navigation.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -223,12 +229,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/releases.html",
-		"oF": 0
-		},
-	"\/_layouts\/testing.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/testing.html",
 		"oF": 0
 		},
 	"\/_layouts\/videos.html": {
@@ -489,6 +489,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/courtney-barnett-feature.jpg": {
+		"ft": 16384,
+		"iS": 199880,
+		"oA": 0,
+		"oAP": "\/_uploads\/courtney-barnett-feature.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/courtney-barnett.jpg": {
 		"ft": 16384,
 		"iS": 140542,
@@ -545,6 +553,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/_uploads\/hazel-english-feature.jpg": {
+		"ft": 16384,
+		"iS": 250111,
+		"oA": 0,
+		"oAP": "\/_uploads\/hazel-english-feature.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/_uploads\/hazel-english.jpg": {
 		"ft": 16384,
 		"iS": 85237,
@@ -582,6 +598,14 @@
 		"iS": 87290,
 		"oA": 0,
 		"oAP": "\/_uploads\/ive-got-a-friend-called-emily-ferris.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/_uploads\/jamie-isaac-feature.jpg": {
+		"ft": 16384,
+		"iS": 227801,
+		"oA": 0,
+		"oAP": "\/_uploads\/jamie-isaac-feature.jpg",
 		"oF": 0,
 		"opt": 0
 		},

@@ -6,11 +6,11 @@ layout: default
 <section class="videos">
   {% assign videos = site.videos | sort: 'date' | reverse %}
   {% for video in videos %}
-  <div class="row expanded align-center"> 
+  <div class="row expanded align-center video"> 
     <div class="small-11 medium-10 columns">  
       
       <div class="video__text">
-      <p>{{video.title}} — {{video.artist}}</p>
+      {{video.title}} — {{video.artist}}
       </div>
       
       <div class="responsive-embed widescreen">

@@ -5,12 +5,12 @@ description:
 is-featured: 
 image: "/uploads/courtney-barnett.jpg"
 feature-image: 
-website: https://www.google.com/
-facebook: https://www.facebook.com/
-twitter: https://twitter.com/
-instagram: https://www.instagram.com/
-spotify: https://open.spotify.com/
-soundcloud: https://soundcloud.com/
-apple: https://itunes.apple.com/us/
+website: https://courtneybarnett.com.au
+facebook: https://www.facebook.com/courtneybarnettmusic
+twitter: https://twitter.com/courtneymelba
+instagram: https://instagram.com/courtneymelba/
+spotify:
+soundcloud:
+apple:
 ---
 
