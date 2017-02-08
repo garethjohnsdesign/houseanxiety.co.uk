@@ -1,6 +1,6 @@
 ---
 title: Shiny Gun
-position: 7
+position: 9
 artist: Fraser A Gorman
 image: "/uploads/shiny-gun.jpg"
 catalogue-number: 

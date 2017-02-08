@@ -1,6 +1,6 @@
 ---
 title: Couch Baby
-position: 17
+position: 2
 artist: Jamie Isaac
 image: "/uploads/couch-baby.jpg"
 catalogue-number: MA0069
