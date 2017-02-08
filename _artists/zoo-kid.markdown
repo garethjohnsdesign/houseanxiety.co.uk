@@ -1,6 +1,6 @@
 ---
 title: Zoo Kid
-position: 1
+position: 3
 description: 
 is-featured: 
 image: "/uploads/zoo-kid.jpg"

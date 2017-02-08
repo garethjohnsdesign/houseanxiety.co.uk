@@ -1,6 +1,6 @@
 ---
 title: Graffiti Island
-position: 5
+position: 6
 description: 
 is-featured: 
 image: "/uploads/graffiti-island.jpg"
