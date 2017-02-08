@@ -1,6 +1,6 @@
 ---
 title: Book of Love
-position: 8
+position: 10
 artist: Fraser A Gorman
 image: "/uploads/book-of-love.jpg"
 catalogue-number: HA035
