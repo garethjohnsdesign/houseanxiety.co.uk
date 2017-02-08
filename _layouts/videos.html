@@ -2,10 +2,23 @@
 layout: default
 ---
 
-<!-- Content -->
-<div class="row page__content">
-  <div class="small-10 medium-10 columns">
-    {{ page.content | markdownify }}
+<!-- Videos -->
+<section class="videos">
+  {% assign videos = site.videos | sort: 'position' %}
+  {% for video in videos %}
+  <div class="row expanded align-center"> 
+    <div class="small-11 medium-10 columns">  
+      
+      <div class="video__text">
+      <p>{{video.title}} — {{video.artist}}</p>
+      </div>
+      
+      <div class="responsive-embed widescreen">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video.youtube}}?modestbranding=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
+      </div>
+      
+    </div>
   </div>
-</div>
-<!-- End Content -->
+  {% endfor %}
+</section>
+<!-- End Videos -->
