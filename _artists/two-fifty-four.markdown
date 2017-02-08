@@ -5,12 +5,12 @@ description:
 is-featured: 
 image: "/uploads/two-fifty-four.jpg"
 feature-image: 
-website:
+website: 
 facebook: https://www.facebook.com/
 twitter: https://twitter.com/twofiftyfour
-instagram:
-spotify:
-soundcloud:
-apple:
+instagram: 
+spotify: 
+soundcloud: 
+apple: 
 ---
 

@@ -9,8 +9,8 @@ website: http://jamieisaac.co.uk
 facebook: https://www.facebook.com/jamieisaacofficial
 twitter: https://twitter.com/JIsaacOfficial
 instagram: https://www.instagram.com/jme__isc
-spotify:
-soundcloud:
-apple:
+spotify: 
+soundcloud: 
+apple: 
 ---
 

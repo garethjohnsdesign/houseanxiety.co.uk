@@ -8,9 +8,9 @@ feature-image: "/uploads/shock-machine-feature.jpg"
 website: http://shock-machine.com
 facebook: https://www.facebook.com/shockmachineofficial
 twitter: https://twitter.com/Shock_Machine
-instagram:
-spotify:
-soundcloud:
-apple:
+instagram: 
+spotify: 
+soundcloud: 
+apple: 
 ---
 

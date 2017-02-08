@@ -5,12 +5,12 @@ description:
 is-featured: 
 image: "/uploads/the-big-pink.jpg"
 feature-image: 
-website:
-facebook:
+website: 
+facebook: 
 twitter: https://twitter.com/thebigpink
-instagram:
-spotify:
-soundcloud:
-apple:
+instagram: 
+spotify: 
+soundcloud: 
+apple: 
 ---
 

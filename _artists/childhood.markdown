@@ -8,9 +8,9 @@ feature-image:
 website: http://www.childhoodband.com
 facebook: https://www.facebook.com/childhoodband
 twitter: https://twitter.com/childhooduk
-instagram:
-spotify:
-soundcloud:
-apple:
+instagram: 
+spotify: 
+soundcloud: 
+apple: 
 ---
 

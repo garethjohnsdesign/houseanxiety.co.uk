@@ -5,12 +5,12 @@ description:
 is-featured: 
 image: "/uploads/miracle.jpg"
 feature-image: 
-website:
+website: 
 facebook: https://www.facebook.com/miraclerising
-twitter:
-instagram:
-spotify:
-soundcloud:
-apple:
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+apple: 
 ---
 

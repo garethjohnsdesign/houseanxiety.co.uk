@@ -5,12 +5,12 @@ description:
 is-featured: 
 image: "/uploads/zoo-kid.jpg"
 feature-image: 
-website:
-facebook:
-twitter:
-instagram:
-spotify:
-soundcloud:
-apple:
+website: 
+facebook: 
+twitter: 
+instagram: 
+spotify: 
+soundcloud: 
+apple: 
 ---
 

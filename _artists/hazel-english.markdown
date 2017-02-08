@@ -9,8 +9,8 @@ website: http://www.hazelenglish.com
 facebook: https://www.facebook.com/hazelenglishmusic/
 twitter: https://twitter.com/iamhazelenglish
 instagram: https://www.instagram.com/hazelenglishmusic/
-spotify:
-soundcloud:
-apple:
+spotify: 
+soundcloud: 
+apple: 
 ---
 
