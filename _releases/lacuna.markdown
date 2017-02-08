@@ -1,6 +1,6 @@
 ---
 title: Lacuna
-position: 16
+position: 17
 artist: Childhood
 image: "/uploads/lacuna.jpg"
 catalogue-number: HA019

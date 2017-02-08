@@ -1,6 +1,6 @@
 ---
 title: Island Barbados
-position: 17
+position: 18
 artist: Ghost Hunter
 image: "/uploads/island-barbados.jpg"
 catalogue-number: HA003
