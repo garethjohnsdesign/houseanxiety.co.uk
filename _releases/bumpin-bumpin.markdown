@@ -1,5 +1,6 @@
 ---
 title: Bumpin' Bumpin'
+position: 18
 artist: Kreayshawn
 image: "/uploads/bumpin-bumpin.jpg"
 catalogue-number: HA007

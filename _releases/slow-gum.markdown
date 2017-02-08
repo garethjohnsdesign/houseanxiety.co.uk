@@ -1,5 +1,6 @@
 ---
 title: Slow Gum
+position: 5
 artist: Fraser A Gorman
 image: "/uploads/slow-gum.jpg"
 catalogue-number: HA044
