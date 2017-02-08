@@ -1,6 +1,6 @@
 ---
 title: Sometimes I Sit and Think, and Sometimes I Just Sit
-position: 8
+position: 10
 artist: Courtney Barnett
 image: "/uploads/sometimes-i-sit-and-think-and-sometimes-i-just-sit.jpg"
 catalogue-number: HA036
