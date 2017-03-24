@@ -7,7 +7,7 @@
 		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25704",
 "files": {
 	"\/404.md": {
 		"cS": 0,
@@ -393,7 +393,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/a-sea-of-split-peas.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/blue-break.jpg": {
 		"ft": 16384,
@@ -401,7 +402,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/blue-break.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/blue-velvet.jpg": {
 		"ft": 16384,
@@ -409,7 +411,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/blue-velvet.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/book-of-love.jpg": {
 		"ft": 16384,
@@ -417,7 +420,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/book-of-love.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/broken-hands.jpg": {
 		"ft": 16384,
@@ -425,7 +429,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/broken-hands.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/bumpin-bumpin.jpg": {
 		"ft": 16384,
@@ -433,7 +438,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/bumpin-bumpin.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/central-valley-sadness.jpg": {
 		"ft": 16384,
@@ -441,7 +447,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/central-valley-sadness.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/childhood.jpg": {
 		"ft": 16384,
@@ -449,7 +456,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/childhood.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/couch-baby.jpg": {
 		"ft": 16384,
@@ -457,7 +465,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/couch-baby.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/courtney-barnett-feature.jpg": {
 		"ft": 16384,
@@ -465,7 +474,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/courtney-barnett-feature.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/courtney-barnett.jpg": {
 		"ft": 16384,
@@ -473,7 +483,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/courtney-barnett.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/fluid-window.jpg": {
 		"ft": 16384,
@@ -481,7 +492,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/fluid-window.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/forth-wanderers.jpg": {
 		"ft": 16384,
@@ -489,7 +501,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/forth-wanderers.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/fraser-a-gorman.jpg": {
 		"ft": 16384,
@@ -497,7 +510,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/fraser-a-gorman.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/ghost-hunter.jpg": {
 		"ft": 16384,
@@ -505,7 +519,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/ghost-hunter.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/good-love.jpg": {
 		"ft": 16384,
@@ -513,7 +528,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/good-love.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/graffiti-island.jpg": {
 		"ft": 16384,
@@ -521,7 +537,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/graffiti-island.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/hazel-english-feature.jpg": {
 		"ft": 16384,
@@ -529,7 +546,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/hazel-english-feature.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/hazel-english.jpg": {
 		"ft": 16384,
@@ -537,7 +555,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/hazel-english.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/headhunters.jpg": {
 		"ft": 16384,
@@ -545,7 +564,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/headhunters.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/i-will-be-cold-soon.jpg": {
 		"ft": 16384,
@@ -553,7 +573,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/i-will-be-cold-soon.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/island-barbados.jpg": {
 		"ft": 16384,
@@ -561,7 +582,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/island-barbados.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/ive-got-a-friend-called-emily-ferris.jpg": {
 		"ft": 16384,
@@ -569,7 +591,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/ive-got-a-friend-called-emily-ferris.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/jamie-isaac-feature.jpg": {
 		"ft": 16384,
@@ -577,7 +600,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/jamie-isaac-feature.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/jamie-isaac.jpg": {
 		"ft": 16384,
@@ -585,7 +609,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/jamie-isaac.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/kims-caravan.jpg": {
 		"ft": 16384,
@@ -593,7 +618,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/kims-caravan.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/kreayshawn.jpg": {
 		"ft": 16384,
@@ -601,7 +627,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/kreayshawn.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/lacuna.jpg": {
 		"ft": 16384,
@@ -609,7 +636,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/lacuna.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/miracle.jpg": {
 		"ft": 16384,
@@ -617,7 +645,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/miracle.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/never-going-home.jpg": {
 		"ft": 16384,
@@ -625,7 +654,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/never-going-home.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/nobody-really-cares-if-you-dont-go-to-the-party.jpg": {
 		"ft": 16384,
@@ -633,7 +663,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/nobody-really-cares-if-you-dont-go-to-the-party.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/on-a-wire.jpg": {
 		"ft": 16384,
@@ -641,7 +672,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/on-a-wire.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/open-up-the-sky.jpg": {
 		"ft": 16384,
@@ -649,7 +681,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/open-up-the-sky.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/out-getting-ribs.jpg": {
 		"ft": 16384,
@@ -657,7 +690,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/out-getting-ribs.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/pedestrian-at-best.jpg": {
 		"ft": 16384,
@@ -665,7 +699,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/pedestrian-at-best.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/shiny-gun.jpg": {
 		"ft": 16384,
@@ -673,7 +708,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/shiny-gun.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/shock-machine.jpg": {
 		"ft": 16384,
@@ -681,7 +717,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/shock-machine.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/slop.jpg": {
 		"ft": 16384,
@@ -689,7 +726,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/slop.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/slow-gum.jpg": {
 		"ft": 16384,
@@ -697,7 +735,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/slow-gum.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/solemn-skies.jpg": {
 		"ft": 16384,
@@ -705,7 +744,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/solemn-skies.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/sometimes-i-sit-and-think-and-sometimes-i-just-sit.jpg": {
 		"ft": 16384,
@@ -713,7 +753,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/sometimes-i-sit-and-think-and-sometimes-i-just-sit.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/the-big-pink.jpg": {
 		"ft": 16384,
@@ -721,7 +762,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/the-big-pink.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/the-visitors.jpg": {
 		"ft": 16384,
@@ -729,7 +771,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/the-visitors.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/too-young-to-love-crystal-visions.jpg": {
 		"ft": 16384,
@@ -737,7 +780,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/too-young-to-love-crystal-visions.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/two-fifty-four.jpg": {
 		"ft": 16384,
@@ -745,7 +789,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/two-fifty-four.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/zoo-kid.jpg": {
 		"ft": 16384,
@@ -753,7 +798,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/zoo-kid.jpg",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/_videos\/anonymous-club.markdown": {
 		"ft": 8192,
@@ -954,26 +1000,32 @@
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 321,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicons\/android-chrome-256x256.png": {
 		"ft": 32768,
 		"iS": 1084,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 304,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicons\/browserconfig.xml": {
 		"ft": 8192,
@@ -984,18 +1036,22 @@
 	"\/assets\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 592,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-16x16.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 599,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-32x32.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicons\/favicon.ico": {
 		"ft": 8192,
@@ -1014,10 +1070,12 @@
 	"\/assets\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 598,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/assets\/favicons\/safari-pinned-tab.svg": {
 		"ft": 2097152,
@@ -1080,10 +1138,12 @@
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
 		"iS": 14790,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/assets\/js\/app.js": {
 		"ft": 64,
@@ -6704,6 +6764,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -6901,6 +6965,10 @@
 			"optionString": "{'grouping': false, 'allowCall': false }"
 			},
 		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -7180,6 +7248,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -7231,6 +7303,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -7325,6 +7401,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -7771,7 +7851,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -7864,7 +7945,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
