@@ -44,6 +44,14 @@ defaults:
   values:
     artist: 
     youtube: 
+- scope:
+    path: ''
+    type: releases
+  values:
+    artist: 
+    image: 
+    catalogue-number: 
+    format: 
 url: http://houseanxiety.co.uk
 description: A London-based independent record label, and a proud member of the Marathon
   Artists family.

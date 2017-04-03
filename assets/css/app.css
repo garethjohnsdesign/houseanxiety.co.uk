@@ -8833,10 +8833,10 @@ Example showing how to change the color/size of the icons:
 }
 ======================================================================================== */
 .icon-logo {
-  font-size: 8rem; }
+  font-size: 10rem; }
   @media screen and (max-width: 39.9375em) {
     .icon-logo {
-      font-size: 6rem; } }
+      font-size: 7rem; } }
 
 .overlay {
   z-index: 1001;
