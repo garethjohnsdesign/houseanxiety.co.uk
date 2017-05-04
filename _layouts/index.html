@@ -13,18 +13,13 @@ layout: default
           <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>←</button>
           <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&rarr;</button>
           
-          <li class="is-active orbit-slide">
-            <img class="orbit-image" src="/uploads/jamie-isaac-feature.jpg" alt="Space">
-            <figcaption class="orbit-caption">Jamie Isaac</figcaption>
+{% assign artists = site.artists | sort: 'position' | where: "is-featured", "true" %}
+    {% for artist in artists %}
+    <li class="is-active orbit-slide">
+            <img class="orbit-image" src="{{artist.feature-image}}" alt="{{artist.title}}">
+            <figcaption class="orbit-caption">{{artist.title}}</figcaption>
           </li>
-          <li class="orbit-slide">
-            <img class="orbit-image" src="/uploads/courtney-barnett-feature.jpg" alt="Space">
-            <figcaption class="orbit-caption">Courtney Barnett</figcaption>
-          </li>
-          <li class="orbit-slide">
-            <img class="orbit-image" src="/uploads/hazel-english-feature.jpg" alt="Space">
-            <figcaption class="orbit-caption">Hazel English</figcaption>
-          </li>
+    {% endfor %}
         </ul>
       </div>
 

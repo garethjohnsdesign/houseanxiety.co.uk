@@ -9045,3 +9045,9 @@ i, cite, em, var, address, dfn {
   @media screen and (max-width: 39.9375em) {
     .carousel {
       height: calc(100vh - 200px); } }
+
+.orbit-previous {
+  font-size: 2rem; }
+
+.orbit-next {
+  font-size: 2rem; }
