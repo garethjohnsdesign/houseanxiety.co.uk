@@ -915,12 +915,6 @@
 		"oAP": "\/_videos\/avant-gardener.markdown",
 		"oF": 0
 		},
-	"\/_videos\/bitter-winter.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_videos\/bitter-winter.markdown",
-		"oF": 0
-		},
 	"\/_videos\/blue-velvet.markdown": {
 		"ft": 8192,
 		"oA": 2,
@@ -6249,18 +6243,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"\/Gemfile": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Gemfile",
-		"oF": 0
-		},
-	"\/Gemfile.lock": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/Gemfile.lock",
-		"oF": 0
 		},
 	"\/humans.txt": {
 		"ft": 8192,
