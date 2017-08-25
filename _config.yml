@@ -57,9 +57,6 @@ description: A London-based independent record label, and a proud member of the 
   Artists family.
 permalink: pretty
 exclude:
-- Gruntfile.js
-- Gemfile
-- Gemfile.lock
 - package.json
 - README*
 - node_modules
