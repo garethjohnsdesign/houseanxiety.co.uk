@@ -1,16 +1,7 @@
 ---
 title: Zoo Kid
 position: 12
-description: 
-is-featured: 
+is-featured: true
 image: "/uploads/zoo-kid.jpg"
-feature-image: 
-website: 
-facebook: 
-twitter: 
-instagram: 
-spotify: 
-soundcloud: 
-apple: 
 ---
 
