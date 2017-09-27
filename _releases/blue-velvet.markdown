@@ -1,7 +1,7 @@
 ---
 title: Blue Velvet
 date: 2014-10-02 15:05:00 Z
-position: 18
+position: 19
 artist: Childhood
 image: "/uploads/blue-velvet.jpg"
 catalogue-number: HA011
