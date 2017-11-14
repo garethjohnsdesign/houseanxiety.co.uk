@@ -1,6 +1,6 @@
 ---
 title: Jamie Isaac
-position: 8
+position: 9
 is-featured: true
 image: "/uploads/jamie-isaac.jpg"
 feature-image: "/uploads/jamie-isaac-feature.jpg"
