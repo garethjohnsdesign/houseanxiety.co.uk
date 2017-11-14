@@ -1,6 +1,6 @@
 ---
 title: Hazel English
-position: 1
+position: 7
 description: 
 is-featured: true
 image: "/uploads/hazel-english.jpg"

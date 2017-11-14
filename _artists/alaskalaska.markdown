@@ -1,6 +1,7 @@
 ---
 title: ALASKALASKA
 date: 2017-07-24 09:18:00 Z
+position: 1
 is-featured: true
 image: "/uploads/alaskalaska.jpg"
 feature-image: "/uploads/alaskalaska-feature.jpg"
