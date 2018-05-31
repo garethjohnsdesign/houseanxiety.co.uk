@@ -1,7 +1,7 @@
 ---
 title: The Visitors
 date: 2011-08-01 15:14:00 Z
-position: 22
+position: 24
 artist: Miracle
 image: "/uploads/the-visitors.jpg"
 catalogue-number: HA008
