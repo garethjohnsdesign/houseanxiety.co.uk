@@ -21,11 +21,6 @@ $color-link: $color--black;
   &.open {
     opacity: 0.98;
     visibility: visible;
-    
-    li {
-      animation: fadeIn .5s ease forwards;
-      animation-delay: .25s;
-    }
   }
   nav {
     position: relative;
@@ -49,7 +44,6 @@ $color-link: $color--black;
       height: calc(100% / 4);
       min-height: 2rem;
       position: relative;
-      opacity: 0;
       
       a {
         display: block;

@@ -3,22 +3,20 @@ layout: default
 ---
 
 <!-- Videos -->
-<section class="videos">
-  {% assign videos = site.videos | sort: 'date' | reverse %}
-  {% for video in videos %}
-  <div class="row expanded align-center video"> 
-    <div class="small-11 medium-10 columns">  
-      
-      <div class="video__text">
-      {{video.title}} — {{video.artist}}
-      </div>
-      
-      <div class="responsive-embed widescreen">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video.youtube}}?modestbranding=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
-      </div>
-      
+{% assign videos = site.videos | sort: 'date' | reverse %}
+{% for video in videos %}
+<div class="grid-x grid-padding-x grid-padding-y align-center"> 
+  <div class="small-11 medium-10 cell">  
+    
+    <div class="video__text padding-bottom-1">
+    {{video.title}} — {{video.artist}}
     </div>
+    
+    <div class="responsive-embed widescreen">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video.youtube}}?modestbranding=1&rel=0&showinfo=0&color=white&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
+    </div>
+    
   </div>
-  {% endfor %}
-</section>
+</div>
+{% endfor %}
 <!-- End Videos -->
