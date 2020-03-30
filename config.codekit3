@@ -570,6 +570,12 @@
 		"oAP": "/_releases/too-young-to-love-crystal-visions.markdown",
 		"oF": 0
 		},
+	"/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/_site",
+		"oF": 0
+		},
 	"/_uploads/a-sea-of-split-peas.jpg": {
 		"ft": 16384,
 		"iS": 122479,
@@ -581,12 +587,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/a2667129990_10.jpg": {
+	"/_uploads/alaskalaska-cover.jpg": {
 		"ft": 16384,
-		"iS": 159074,
+		"iS": 52922,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/a2667129990_10.jpg",
+		"oAP": "/_uploads/alaskalaska-cover.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -669,6 +675,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/by-the-water.jpg": {
+		"ft": 16384,
+		"iS": 184684,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/by-the-water.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/central-valley-sadness.jpg": {
 		"ft": 16384,
 		"iS": 28827,
@@ -719,17 +736,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/courtney-barnett.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/E.P Cover (3000x3000) ( no txt ) (1).jpg": {
-		"ft": 16384,
-		"iS": 1853883,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/E.P Cover (3000x3000) ( no txt ) (1).jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -823,6 +829,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/hazel-english-just-give-in.jpg": {
+		"ft": 16384,
+		"iS": 169844,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/hazel-english-just-give-in.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/hazel-english.jpg": {
 		"ft": 16384,
 		"iS": 85237,
@@ -851,6 +868,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/i-will-be-cold-soon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/infinite-worlds.jpg": {
+		"ft": 16384,
+		"iS": 69832,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/infinite-worlds.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -900,67 +928,23 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/_uploads/JGI   NGH 2 X EP PACKSHOT.jpg": {
+	"/_uploads/keyah-blu.jpg": {
 		"ft": 16384,
-		"iS": 543468,
+		"iS": 75482,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/JGI   NGH 2 X EP PACKSHOT.jpg",
+		"oAP": "/_uploads/keyah-blu.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/KEYAH BLU - Sweet [Digital packshot].jpg": {
+	"/_uploads/keyah-feature.jpg": {
 		"ft": 16384,
-		"iS": 3274123,
+		"iS": 141424,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/KEYAH BLU - Sweet [Digital packshot].jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE]-027d43.jpg": {
-		"ft": 16384,
-		"iS": 495326,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE]-027d43.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE]-18a706.jpg": {
-		"ft": 16384,
-		"iS": 495326,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE]-18a706.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE]-31d906.jpg": {
-		"ft": 16384,
-		"iS": 477864,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE]-31d906.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE].jpg": {
-		"ft": 16384,
-		"iS": 600363,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/KEYAH BLU by Beni Masiala [LANDSCAPE].jpg",
+		"oAP": "/_uploads/keyah-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1010,34 +994,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/MIKE - BY THE WATER-3.jpg": {
+	"/_uploads/mike-feature.jpg": {
 		"ft": 16384,
-		"iS": 2550604,
+		"iS": 212205,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/MIKE - BY THE WATER-3.jpg",
+		"oAP": "/_uploads/mike-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/MIKE 2 .jpg": {
+	"/_uploads/mike.jpg": {
 		"ft": 16384,
-		"iS": 2941642,
+		"iS": 52315,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/MIKE 2 .jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/Mike for HA website .jpg": {
-		"ft": 16384,
-		"iS": 417782,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/Mike for HA website .jpg",
+		"oAP": "/_uploads/mike.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1197,6 +1170,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/sweet.jpg": {
+		"ft": 16384,
+		"iS": 176828,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/sweet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/the-big-pink.jpg": {
 		"ft": 16384,
 		"iS": 87056,
@@ -1241,67 +1225,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/Vagabon by Daniel Dorsa 1.jpg": {
+	"/_uploads/vagabon-feature.jpg": {
 		"ft": 16384,
-		"iS": 556878,
+		"iS": 44350,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/Vagabon by Daniel Dorsa 1.jpg",
+		"oAP": "/_uploads/vagabon-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/_uploads/vagabon web-038ca9.jpg": {
+	"/_uploads/vagabon.jpg": {
 		"ft": 16384,
-		"iS": 400515,
+		"iS": 29941,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/_uploads/vagabon web-038ca9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/vagabon web.jpg": {
-		"ft": 16384,
-		"iS": 55189,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/vagabon web.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/Vagabon website -5b6db9.jpg": {
-		"ft": 16384,
-		"iS": 408984,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/Vagabon website -5b6db9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/Vagabon website .jpg": {
-		"ft": 16384,
-		"iS": 408984,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/Vagabon website .jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/_uploads/zoo kid HA site .jpg": {
-		"ft": 16384,
-		"iS": 554032,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/_uploads/zoo kid HA site .jpg",
+		"oAP": "/_uploads/vagabon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
