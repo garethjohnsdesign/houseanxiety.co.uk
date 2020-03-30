@@ -52,7 +52,7 @@ defaults:
     image: 
     catalogue-number: 
     format: 
-url: http://houseanxiety.co.uk
+url: https://www.houseanxiety.co.uk
 description: A London-based independent record label, and a proud member of the Marathon
   Artists family.
 permalink: pretty
@@ -75,7 +75,7 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 company: House Anxiety
-email: info@houseanxietyrecords.co.uk
+email: info@houseanxiety.co.uk
 google_site_verification: 
 analytics: 
 logo: "/assets/img/logo.svg"
