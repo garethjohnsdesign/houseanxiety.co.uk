@@ -2,28 +2,26 @@
 layout: default
 ---
 
-<!-- Index -->
-<section class="index">
-  <div class="row expanded columns carousel align-center">
-    <div class="small-11 medium-11 large-10 xxlarge-8 columns align-self-middle">
-      
-      <div class="orbit" role="region" aria-label="Featured Artists" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out; pause-on-hover:false;">
-        <ul class="orbit-container">
-          
-          <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>←</button>
-          <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&rarr;</button>
-          
-{% assign artists = site.artists | sort: 'position' | where: "is-featured", "true" %}
-    {% for artist in artists %}
-    <li class="is-active orbit-slide">
-            <img class="orbit-image" src="{{artist.feature-image}}" alt="{{artist.title}}">
-            <figcaption class="orbit-caption">{{artist.title}}</figcaption>
-          </li>
-    {% endfor %}
-        </ul>
-      </div>
+<!-- Carousel -->
+<div class="grid-x carousel align-center">
+  <div class="small-11 medium-11 large-10 xxlarge-8 cell align-self-middle">
+    
+    <div class="orbit" role="region" aria-label="Featured Artists" data-orbit data-options="animInFromLeft:fade-in; animInFromRight:fade-in; animOutToLeft:fade-out; animOutToRight:fade-out; pause-on-hover:false; timerDelay:2000;">
+      <ul class="orbit-container">
+        
+        <button class="orbit-previous"><span class="show-for-sr">Previous Slide</span>←</button>
+        <button class="orbit-next"><span class="show-for-sr">Next Slide</span>&rarr;</button>
 
+        {% assign artists = site.artists | sort: 'position' | where: "is-featured", "true" %}
+        {% for artist in artists %}
+        <li class="is-active orbit-slide">
+                <img class="orbit-image" src="{{artist.feature-image}}" alt="{{artist.title}}">
+                <figcaption class="orbit-caption">{{artist.title}}</figcaption>
+              </li>
+        {% endfor %}
+      </ul>
     </div>
+
   </div>
-</section>
-<!-- End Index -->
+</div>
+<!-- End Carousel -->

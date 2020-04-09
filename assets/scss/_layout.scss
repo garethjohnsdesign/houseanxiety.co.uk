@@ -41,10 +41,6 @@ img {
   color: $color--white;
 }
 
-.index .columns {
-  transition: $primary-transition;
-}
-
 a { 
   transition: $primary-transition;
 }
@@ -68,40 +64,14 @@ i, cite, em, var, address, dfn {
 // 4. Navigation
 // -------------
 
-.info {
-  padding: 1rem;
-}
-
 
 // 4. Navigation
 // -------------
 
-.videos {
-  padding: 1rem;
-}
-
-.video {
-  padding-bottom: 1rem;
-}
-
-.video__text {
-  padding-bottom: 1rem;
-}
 
 // 6. Artists
 // ----------
 
-.artists {
-  padding: 1rem;
-}
-
-.artist {
-  padding: 1rem;
-}
-
-.artist__text {
-  padding-top: 1rem;
-}
 
 .artist__excerpt {
 	position:relative;
@@ -173,18 +143,6 @@ opacity: 1;
 // Releases
 
 
-.releases {
-  padding: 1rem;
-}
-
-.release {
-  padding: 1rem;
-}
-
-.release__text {
-  padding-top: 1rem;
-}
-
 .release__excerpt {
 	position:relative;
 	opacity:1;
@@ -248,9 +206,9 @@ opacity: 1;
 
 
 .carousel {
-  height: 100vh;
+  min-height: 100vh;
   @include breakpoint(small only) {
-    height: calc(100vh - 200px);
+    min-height: calc(100vh - 200px);
   	}
 }
 
