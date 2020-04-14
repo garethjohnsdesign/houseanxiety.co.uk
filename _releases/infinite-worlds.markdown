@@ -1,7 +1,7 @@
 ---
 title: Infinite Worlds
 date: 2017-11-14 11:28:00 Z
-position: 1
+position: 2
 artist: Vagabon
 image: "/uploads/infinite-worlds.jpg"
 catalogue-number: MA0118
