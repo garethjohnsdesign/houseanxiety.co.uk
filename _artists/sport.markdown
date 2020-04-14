@@ -1,5 +1,5 @@
 ---
-title: SPORT
+title: Spoort
 date: 2020-04-14 10:53:00 Z
 image: "/uploads/Self%20Press%20Photo%20credit%20Omar%20Khaleel.JPG"
 website: https://www.spoort.co.uk/
