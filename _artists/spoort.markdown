@@ -1,3 +1,4 @@
+---
 title: Spoort
 position: 8
 image: "/uploads/spoort.jpg"
