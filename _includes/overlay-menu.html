@@ -5,7 +5,7 @@
       <ul>
         {% for link in site.data.navigation %}
           <li class="element">
-            <a href="{{link.url}}">{{link.title}}</a>
+            <a href="{{link.url}}" data-toggle="overlay">{{link.title}}</a>
           </li>
         {% endfor %}
       </ul>
