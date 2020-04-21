@@ -2,7 +2,7 @@
 
 <nav>
 <ul class="menu vertical">
-<li class="top-bar__logo"><a href="/" class="animsition-link"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a></li>
+<li class="top-bar__logo"><a href="/"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></a></li>
 
 {% for entry in site.data.navigation %}
 {% if entry.url == current_page %}
@@ -13,15 +13,15 @@
 {% assign sublinks = entry.sublinks %}
 {% if sublinks %}
 <li{{ current }}>
-<a href="{{ site.baseurl }}{{ entry.url }}" class="animsition-link">{{ entry.title }}</a>
+<a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
 <ul class="menu vertical">
 {% for sublink in sublinks %}
-<li><a href="{{ site.baseurl }}{{ sublink.url }}" class="animsition-link">{{ sublink.title }}</a></li>
+<li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
 {% endfor %}
 </ul>
 </li>
 {% else %}
-<li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="animsition-link">{{ entry.title }}</a></li>
+<li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
 {% endif %}
 {% endfor %}
 
