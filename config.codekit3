@@ -218,6 +218,14 @@
 		"oAP": "/_includes/head.html",
 		"oF": 0
 		},
+	"/_includes/images/interchange-img-small-12-medium-6-cell.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_includes/images/interchange-img-small-12-medium-6-cell.html",
+		"oF": 0
+		},
 	"/_includes/navigation-mobile.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1745,6 +1753,26 @@
 		"oAP": "/assets/fonts/SpaceMono-Regular.woff",
 		"oF": 0
 		},
+	"/assets/icons/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/icons/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/assets/img/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/img/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/assets/img/og-image.png": {
 		"ft": 32768,
 		"iS": 14790,
@@ -1810,19 +1838,6 @@
 		"oF": 1,
 		"sC": 1,
 		"tS": 0
-		},
-	"/assets/scss/_carousel.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/assets/css/_carousel.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"/assets/scss/_fonts.scss": {
 		"aP": 0,
@@ -1911,6 +1926,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/_settings.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/assets/scss/_swiper.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/assets/css/_swiper.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2113,6 +2141,28 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/node_modules/ssr-window/dist/ssr-window.esm.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/ssr-window/dist/min/ssr-window.esm-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/node_modules/swiper/js/swiper.esm.bundle.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/swiper/js/min/swiper.esm.bundle-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/node_modules/swup/lib/index.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2134,6 +2184,14 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"/package-lock.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/package-lock-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"/package.json": {
 		"ft": 524288,
