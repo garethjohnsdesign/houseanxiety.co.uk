@@ -3,6 +3,7 @@
 
 import $ from "jquery";
 import 'what-input';
+import Swiper from 'swiper';
 import AOS from "aos";
 import Swup from 'swup';
 import SwupBodyClassPlugin from "@swup/body-class-plugin";
@@ -70,6 +71,39 @@ $(function() {
 $(function() {
 window.addEventListener('load', AOS.refresh);
 });
+
+
+// 5. Carousel
+// -----------
+
+$(document).ready(function () {
+
+//initialize swiper when document ready
+var mySwiper = new Swiper ('.swiper-container', {
+  direction: 'horizontal',
+  slidesPerView: 'auto',
+  centeredSlides: true,
+  loop: true,
+  preventClicks: true,
+  slideToClickedSlide: true,
+  effect: 'fade',
+  autoplay: {
+    delay: 2500,
+  },
+
+keyboard: {
+enabled: true,
+onlyInViewport: false,
+},
+
+navigation: {
+  nextEl: '.swiper-slide'
+}
+
+
+})
+});
+
 
 
 }

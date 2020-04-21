@@ -9,13 +9,50 @@
 //   7. Page
 //   8. Contact
 
+// 1. Mixins
+// ---------
+
+@mixin links ($link, $hover) {
+  a {
+    color: $link;
+    &:hover {
+      color: $hover;   
+    }
+  }
+}
+
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+ .content {
+    transition: $primary-transition;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
+
 // 1. Global
 // ---------
 
 html, body {
-    height: 100%;
     margin: 0;
     padding: 0;
+}
+
+.viewheight {
+  min-height: 100vh;
+  min-height: calc(var(--vh, 1vh) * 100);
 }
 
 :focus {
@@ -243,10 +280,13 @@ opacity: 1;
   	}
 }
 
-.orbit-previous {
-  font-size: 2rem;
+.image--landscape {
+  @include aspect-ratio (6, 4);
+  background-size: cover; 
+  background-position: 50%;
 }
 
-.orbit-next {
-  font-size: 2rem;
+.white {
+  color: $white;
+  @include links ($white, $medium-gray);
 }
