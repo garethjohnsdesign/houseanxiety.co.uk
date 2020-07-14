@@ -1,7 +1,7 @@
 ---
 title: Bumpin' Bumpin'
 date: 2011-01-31 15:14:00 Z
-position: 27
+position: 29
 artist: Kreayshawn
 image: "/uploads/bumpin-bumpin.jpg"
 catalogue-number: HA007

@@ -1,7 +1,9 @@
 ---
 title: Bad Boy Chiller Crew
 date: 2020-07-03 13:29:00 Z
-image: "/uploads/IMG_5639.JPG"
+is-featured: true
+image: "/uploads/bad-boy-chiller-crew.jpg"
+feature-image: "/uploads/bad-boy-chiller-crew-feature.jpg"
 website: https://www.badboychillercrew.com/
 facebook: https://www.facebook.com/badboychillercrew
 instagram: https://www.instagram.com/bbcc_badboychillercrew/

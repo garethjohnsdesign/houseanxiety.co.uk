@@ -1,7 +1,7 @@
 ---
 title: Central Valley Sadness
 date: 2011-10-09 15:13:00 Z
-position: 25
+position: 27
 artist: Adeptus
 image: "/uploads/central-valley-sadness.jpg"
 catalogue-number: HA009
