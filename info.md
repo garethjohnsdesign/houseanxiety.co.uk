@@ -4,7 +4,7 @@ position: 4
 layout: info
 ---
 
-A London-based independent record label, and a proud member of the Marathon Artists family
+A London-based independent record label
 
 CONTACT\
 [info@houseanxiety.co.uk](mailto:info@houseanxiety.co.uk)
