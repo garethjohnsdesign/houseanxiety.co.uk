@@ -1,6 +1,7 @@
 ---
 title: '450'
 date: 2020-07-03 13:36:00 Z
+position: 0
 artist: Bad Boy Chiller Crew
 image: "/uploads/BBCC_4502.jpg"
 ---
