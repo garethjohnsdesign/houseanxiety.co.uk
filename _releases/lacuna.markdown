@@ -1,7 +1,7 @@
 ---
 title: Lacuna
 date: 2014-08-11 15:00:00 Z
-position: 20
+position: 21
 artist: Childhood
 image: "/uploads/lacuna.jpg"
 catalogue-number: HA019
