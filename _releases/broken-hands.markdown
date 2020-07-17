@@ -1,7 +1,7 @@
 ---
 title: Broken Hands
 date: 2015-02-23 14:53:00 Z
-position: 13
+position: 14
 artist: Fraser A Gorman
 image: "/uploads/broken-hands.jpg"
 catalogue-number: 

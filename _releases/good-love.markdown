@@ -1,7 +1,7 @@
 ---
 title: Good Love
 date: 2011-11-01 15:07:00 Z
-position: 26
+position: 27
 artist: Miracle
 image: "/uploads/good-love.jpg"
 catalogue-number: HA010
