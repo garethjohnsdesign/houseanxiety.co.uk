@@ -3,6 +3,6 @@ title: Zoo Kid
 position: 15
 is-featured: true
 image: "/uploads/zoo-kid.jpg"
-feature-image: "/uploads/589a11e61deaab51404f8b06.jpg"
+feature-image: "/uploads/zoo-kid-0b5439.jpg"
 ---
 
