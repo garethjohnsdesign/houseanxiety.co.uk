@@ -1,6 +1,7 @@
 ---
 title: WOOM
 date: 2020-11-20 14:41:00 Z
+is-featured: true
 image: "/uploads/CNV00122.jpg"
 feature-image: "/uploads/CNV00122-0a2a07.jpg"
 facebook: https://www.facebook.com/woommusic
