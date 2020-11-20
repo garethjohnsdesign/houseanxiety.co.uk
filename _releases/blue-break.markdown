@@ -1,7 +1,7 @@
 ---
 title: Blue Break
 date: 2014-03-21 15:02:00 Z
-position: 22
+position: 26
 artist: Jamie Isaac
 image: "/uploads/blue-break.jpg"
 catalogue-number: HA019
