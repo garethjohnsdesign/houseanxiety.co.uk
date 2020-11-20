@@ -1,7 +1,7 @@
 ---
 title: Slow Gum
 date: 2015-07-03 14:50:00 Z
-position: 14
+position: 16
 artist: Fraser A Gorman
 image: "/uploads/slow-gum.jpg"
 catalogue-number: HA044

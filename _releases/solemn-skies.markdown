@@ -1,7 +1,7 @@
 ---
 title: Solemn Skies
 date: 2013-06-10 15:04:00 Z
-position: 28
+position: 30
 artist: Childhood
 image: "/uploads/solemn-skies.jpg"
 catalogue-number: HA012
