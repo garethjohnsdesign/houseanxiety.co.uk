@@ -1,6 +1,7 @@
 ---
 title: carpetgarden
 date: 2020-11-20 14:22:00 Z
+is-featured: true
 image: "/uploads/image_6483441.JPG"
 feature-image: "/uploads/image_6483441-eebd3e.JPG"
 twitter: https://twitter.com/notcarpetgarden?lang=en
