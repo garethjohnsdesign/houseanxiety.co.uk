@@ -1,7 +1,7 @@
 ---
 title: Fluid Window
 date: 2011-02-01 15:17:00 Z
-position: 33
+position: 35
 artist: Miracle
 image: "/uploads/fluid-window.jpg"
 catalogue-number: HA005
